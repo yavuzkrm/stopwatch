@@ -32,4 +32,4 @@ Sessions are stored in `kronometre.db`, created in the folder you run the app fr
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
