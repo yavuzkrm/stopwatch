@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# local data
+kronometre.db
+
+# PyInstaller
+build/
+dist/
+*.spec
